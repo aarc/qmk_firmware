@@ -1,0 +1,4 @@
+SRC += muse.c
+ENCODER_ENABLE = yes
+CONSOLE_ENABLE = yes
+RGBLIGHT_ENABLE = yes
