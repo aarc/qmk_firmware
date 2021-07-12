@@ -26,3 +26,5 @@ AUDIO_ENABLE = no
 RGBLIGHT_ENABLE = no
 
 LAYOUTS = ortho_3x10
+
+
